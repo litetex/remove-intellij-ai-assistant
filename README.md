@@ -1,6 +1,6 @@
 # How to remove the IntelliJ IDEA "AI Assistant"
 
-Since IntelliJ IDEA 2024.1 there is a new ["AI Assistant"](https://www.jetbrains.com/help/idea/ai-assistant.html).
+Since IntelliJ IDEA 2024 there is a new ["AI Assistant"](https://www.jetbrains.com/help/idea/ai-assistant.html).
 
 However there are a few problems:
 * it's constantly shoved into your face when you open a new project
